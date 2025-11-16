@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Selenium session files
+cookies.pkl
+selenium/
+
+# Last post tracker
+last_post_url.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Telethon session file
+*.session

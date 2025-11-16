@@ -1,0 +1,6 @@
+selenium
+selenium-stealth
+beautifulsoup4
+lxml
+html2text
+telethon
